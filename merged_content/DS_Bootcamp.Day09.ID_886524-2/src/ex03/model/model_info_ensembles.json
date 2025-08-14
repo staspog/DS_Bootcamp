@@ -1,0 +1,39 @@
+{
+  "best_model_type": "Best Voting",
+  "test_accuracy": 0.9053254437869822,
+  "test_precision": 0.9088099934253779,
+  "error_analysis": {
+    "worst_weekday": "Monday",
+    "worst_weekday_error_rate": 9.558823529411764,
+    "worst_labname": "lab03",
+    "worst_labname_error_rate": 100.0,
+    "worst_user": "user_user_22",
+    "worst_user_error_rate": 28.57142857142857
+  },
+  "all_models_performance": {
+    "SVM": {
+      "accuracy": 0.8777777777777778,
+      "precision": 0.8816152211617203
+    },
+    "Decision Tree": {
+      "accuracy": 0.8666666666666667,
+      "precision": 0.8716971333998339
+    },
+    "Random Forest": {
+      "accuracy": 0.8962962962962963,
+      "precision": 0.8969799473598222
+    },
+    "Best Voting": {
+      "accuracy": 0.9053254437869822,
+      "precision": 0.9088099934253779
+    },
+    "Best Bagging": {
+      "accuracy": 0.8550295857988166,
+      "precision": 0.8615740119944417
+    },
+    "Best Stacking": {
+      "accuracy": 0.9053254437869822,
+      "precision": 0.9084440413946641
+    }
+  }
+}

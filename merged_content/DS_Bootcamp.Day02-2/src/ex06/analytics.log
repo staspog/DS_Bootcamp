@@ -1,0 +1,150 @@
+2025-03-25 14:03:30 Initialized Research with file: data.csv
+2025-03-25 14:03:30 Reading file
+2025-03-25 14:03:30 File read successfully
+2025-03-25 14:03:30 Initialized Calculations
+2025-03-25 14:03:30 Calculating counts
+2025-03-25 14:03:30 Counts: heads=5, tails=6
+2025-03-25 14:03:30 Calculating fractions
+2025-03-25 14:03:30 Calculating counts
+2025-03-25 14:03:30 Counts: heads=5, tails=6
+2025-03-25 14:03:30 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 14:03:30 Generating 3 random predictions
+2025-03-25 14:03:30 Predictions: [[0, 1], [0, 1], [0, 1]]
+2025-03-25 14:03:30 Saving file report.txt
+2025-03-25 14:03:30 File saved successfully
+2025-03-25 14:03:43 Telegram message sent: The report has been successfully created
+2025-03-25 15:22:17 Initialized Research with file: data.csv
+2025-03-25 15:22:17 Reading file
+2025-03-25 15:22:17 File read successfully
+2025-03-25 15:22:17 Initialized Calculations
+2025-03-25 15:22:17 Calculating counts
+2025-03-25 15:22:17 Counts: heads=5, tails=6
+2025-03-25 15:22:17 Calculating fractions
+2025-03-25 15:22:17 Calculating counts
+2025-03-25 15:22:17 Counts: heads=5, tails=6
+2025-03-25 15:22:17 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:22:17 Generating 3 random predictions
+2025-03-25 15:22:17 Predictions: [[0, 1], [0, 1], [1, 0]]
+2025-03-25 15:22:17 Saving file report.txt
+2025-03-25 15:22:17 File saved successfully
+2025-03-25 15:22:17 Telegram message sent: The report has been successfully created
+2025-03-25 15:22:40 Initialized Research with file: data.csv
+2025-03-25 15:22:40 Reading file
+2025-03-25 15:22:40 File read successfully
+2025-03-25 15:22:40 Initialized Calculations
+2025-03-25 15:22:40 Calculating counts
+2025-03-25 15:22:40 Counts: heads=5, tails=6
+2025-03-25 15:22:40 Calculating fractions
+2025-03-25 15:22:40 Calculating counts
+2025-03-25 15:22:40 Counts: heads=5, tails=6
+2025-03-25 15:22:40 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:22:40 Generating 3 random predictions
+2025-03-25 15:22:40 Predictions: [[0, 1], [0, 1], [0, 1]]
+2025-03-25 15:22:40 Saving file report.txt
+2025-03-25 15:22:40 File saved successfully
+2025-03-25 15:22:40 Telegram message sent: The report has been successfully created
+2025-03-25 15:25:22 Initialized Research with file: data.csv
+2025-03-25 15:25:22 Reading file
+2025-03-25 15:25:22 File read successfully
+2025-03-25 15:25:22 Initialized Calculations
+2025-03-25 15:25:22 Calculating counts
+2025-03-25 15:25:22 Counts: heads=5, tails=6
+2025-03-25 15:25:22 Calculating fractions
+2025-03-25 15:25:22 Calculating counts
+2025-03-25 15:25:22 Counts: heads=5, tails=6
+2025-03-25 15:25:22 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:25:22 Generating 3 random predictions
+2025-03-25 15:25:22 Predictions: [[1, 0], [1, 0], [1, 0]]
+2025-03-25 15:25:22 Saving file report.txt
+2025-03-25 15:25:22 File saved successfully
+2025-03-25 15:25:23 Telegram message sent: The report has been successfully created
+2025-03-25 15:30:38 Initialized Research with file: data.csv
+2025-03-25 15:30:38 Reading file
+2025-03-25 15:30:38 File read successfully
+2025-03-25 15:30:38 Initialized Calculations
+2025-03-25 15:30:38 Calculating counts
+2025-03-25 15:30:38 Counts: heads=5, tails=6
+2025-03-25 15:30:38 Calculating fractions
+2025-03-25 15:30:38 Calculating counts
+2025-03-25 15:30:38 Counts: heads=5, tails=6
+2025-03-25 15:30:38 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:30:38 Generating 3 random predictions
+2025-03-25 15:30:38 Predictions: [[0, 1], [1, 0], [1, 0]]
+2025-03-25 15:30:38 Saving file report.txt
+2025-03-25 15:30:38 File saved successfully
+2025-03-25 15:30:38 Telegram message sent: The report has been successfully created
+2025-03-25 15:33:00 Initialized Research with file: data.csv
+2025-03-25 15:33:00 Reading file
+2025-03-25 15:33:00 File read successfully
+2025-03-25 15:33:00 Initialized Calculations
+2025-03-25 15:33:00 Calculating counts
+2025-03-25 15:33:00 Counts: heads=5, tails=6
+2025-03-25 15:33:00 Calculating fractions
+2025-03-25 15:33:00 Calculating counts
+2025-03-25 15:33:00 Counts: heads=5, tails=6
+2025-03-25 15:33:00 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:33:00 Generating 3 random predictions
+2025-03-25 15:33:00 Predictions: [[1, 0], [0, 1], [0, 1]]
+2025-03-25 15:33:00 Saving file report.txt
+2025-03-25 15:33:00 File saved successfully
+2025-03-25 15:33:00 Telegram message sent: The report has been successfully created
+2025-03-25 15:34:24 Initialized Research with file: data.csv
+2025-03-25 15:34:24 Reading file
+2025-03-25 15:34:24 File read successfully
+2025-03-25 15:34:24 Initialized Calculations
+2025-03-25 15:34:24 Calculating counts
+2025-03-25 15:34:24 Counts: heads=5, tails=6
+2025-03-25 15:34:24 Calculating fractions
+2025-03-25 15:34:24 Calculating counts
+2025-03-25 15:34:24 Counts: heads=5, tails=6
+2025-03-25 15:34:24 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:34:24 Generating 3 random predictions
+2025-03-25 15:34:24 Predictions: [[0, 1], [1, 0], [0, 1]]
+2025-03-25 15:34:24 Saving file report.txt
+2025-03-25 15:34:24 File saved successfully
+2025-03-25 15:34:24 Telegram message sent: The report has been successfully created
+2025-03-25 15:35:12 Initialized Research with file: data.csv
+2025-03-25 15:35:12 Reading file
+2025-03-25 15:35:12 File read successfully
+2025-03-25 15:35:12 Initialized Calculations
+2025-03-25 15:35:12 Calculating counts
+2025-03-25 15:35:12 Counts: heads=5, tails=6
+2025-03-25 15:35:12 Calculating fractions
+2025-03-25 15:35:12 Calculating counts
+2025-03-25 15:35:12 Counts: heads=5, tails=6
+2025-03-25 15:35:12 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:35:12 Generating 3 random predictions
+2025-03-25 15:35:12 Predictions: [[0, 1], [0, 1], [1, 0]]
+2025-03-25 15:35:12 Saving file report.txt
+2025-03-25 15:35:12 File saved successfully
+2025-03-25 15:35:12 Telegram message sent: The report has been successfully created
+2025-03-25 15:36:15 Initialized Research with file: data.csv
+2025-03-25 15:36:15 Reading file
+2025-03-25 15:36:15 File read successfully
+2025-03-25 15:36:15 Initialized Calculations
+2025-03-25 15:36:15 Calculating counts
+2025-03-25 15:36:15 Counts: heads=5, tails=6
+2025-03-25 15:36:15 Calculating fractions
+2025-03-25 15:36:15 Calculating counts
+2025-03-25 15:36:15 Counts: heads=5, tails=6
+2025-03-25 15:36:15 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:36:15 Generating 3 random predictions
+2025-03-25 15:36:15 Predictions: [[1, 0], [1, 0], [1, 0]]
+2025-03-25 15:36:15 Saving file report.txt
+2025-03-25 15:36:15 File saved successfully
+2025-03-25 15:36:16 Telegram message sent: Толсти ксеш бот
+2025-03-25 15:37:50 Initialized Research with file: data.csv
+2025-03-25 15:37:50 Reading file
+2025-03-25 15:37:50 File read successfully
+2025-03-25 15:37:50 Initialized Calculations
+2025-03-25 15:37:50 Calculating counts
+2025-03-25 15:37:50 Counts: heads=5, tails=6
+2025-03-25 15:37:50 Calculating fractions
+2025-03-25 15:37:50 Calculating counts
+2025-03-25 15:37:50 Counts: heads=5, tails=6
+2025-03-25 15:37:50 Fractions: heads=45.45%, tails=54.55%
+2025-03-25 15:37:50 Generating 3 random predictions
+2025-03-25 15:37:50 Predictions: [[1, 0], [1, 0], [0, 1]]
+2025-03-25 15:37:50 Saving file report.txt
+2025-03-25 15:37:50 File saved successfully
+2025-03-25 15:37:50 Telegram message sent: Я хоть и робот, но зато не мельник ебаный, как пиво бл

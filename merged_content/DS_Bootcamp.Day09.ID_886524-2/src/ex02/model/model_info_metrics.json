@@ -1,0 +1,12 @@
+{
+  "model_type": "Random Forest",
+  "best_roc_auc": 0.9893851880258296,
+  "best_accuracy": 0.9260355029585798,
+  "best_precision": 0.9275374670957044,
+  "best_recall": 0.9260355029585798,
+  "worst_weekday": "\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a",
+  "worst_weekday_error_rate": 22.22222222222222,
+  "worst_labname": "lab03",
+  "worst_labname_error_rate": 100.0,
+  "parameters": "{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'entropy', 'max_depth': 24, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_impurity_split': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 21, 'verbose': 0, 'warm_start': False}"
+}
